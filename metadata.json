@@ -1,0 +1,7 @@
+{
+  "name": "Remix: VitalTrain - Entrenamiento corporal",
+  "description": "Aplicación de ejercicio físico para pacientes crónicos y personas mayores basada en rutinas SEMERGEN.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
